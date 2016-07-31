@@ -1,0 +1,1 @@
+# google-cal-disable-month-scroll
